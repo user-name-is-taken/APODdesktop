@@ -4,7 +4,6 @@ function Get-ScriptDirectory {
 
 $script_dir = Get-ScriptDirectory
 # token not necessary for small requests
-# $token = 'eoguvbtbkkeqVbfvWhi3jQNMvVjnpgTdVzZcRnCE&'
 $token = 'DEMO_KEY'
 
 $date = Get-Date -Format 'yyyy-MM-dd'
